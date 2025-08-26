@@ -160,4 +160,4 @@ Response:
 
  Store embeddings & metadata in persistent DB (e.g., Pinecone, Weaviate, Postgres + pgvector)
 
-
+Demo Video: https://drive.google.com/file/d/1XcIEdSmo62WHia76k5w5eM04tn-pdITZ/view?usp=sharing
